@@ -16,6 +16,8 @@ chmod +x installer.sh
 ./installer.sh
 ```
 
+(надейтесь, что там не рм рф..)
+
 
 ___
 [помощь по командам](help)
